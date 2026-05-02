@@ -26,22 +26,6 @@ Customer churn is a major problem for businesses. This project uses Machine Lear
 - Target Variable: Churn
 
 ---
-📁 PROJECT STRUCTURE
-
-Customer-Churn-Prediction-ML-System/
-│
-├── data/
-│   └── churn_data.csv
-│
-├── outputs/
-│   └── model.pkl
-│
-├── main.py
-│
-└── requirements.txt
-
----
-
 ## ⚙️ Technologies Used
 
 - Python 🐍
@@ -65,3 +49,21 @@ Customer-Churn-Prediction-ML-System/
 6. Deployment using Streamlit  
 
 ---
+
+📁 PROJECT STRUCTURE
+
+```text
+Customer-Churn-Prediction-ML-System/
+│
+├── data/
+│   └── churn_data.csv
+│
+├── outputs/
+│   └── model.pkl
+│
+├── main.py
+│
+└── requirements.txt
+
+---
+
